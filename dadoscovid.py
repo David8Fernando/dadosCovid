@@ -18,13 +18,9 @@ state = st.sidebar.selectbox('Qual estado?', estados) #Menu lateral
 df_estado = df[df['state'] == state]
 
 
-
 # SELEÇÃO DA COLUNA DE DADOS
 colunas = ['Novos óbitos', 'Novos casos', 'Óbitos por 100 mil habitantes', 'Casos por 100 mil habitantes']
 column = st.sidebar.selectbox('Qual tipo de informação?', colunas)
-
-st.sidebar.link_button("Meu Linkedin", "https://www.linkedin.com/in/davidfernandopereira/")
-st.sidebar.link_button("Github", "https://github.com/David8Fernando")
 
 
 # Cálculo dos totais
