@@ -2,6 +2,8 @@
 
 Este repositório apresenta um painel interativo desenvolvido com Python e Streamlit para a visualização de dados da COVID-19 no Brasil. O projeto permite que os usuários explorem informações sobre casos, óbitos e recuperações por estado.
 
+Link do projeto: (https://dadoscovid-a8pk8gym66uaackg8mmjmw.streamlit.app/)
+
 ## Tecnologias utilizadas
 
 - **Python**
